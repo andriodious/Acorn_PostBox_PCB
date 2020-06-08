@@ -12,4 +12,4 @@ Power and ground are taken from the host systems POST header.
 
 This project is based on the following GitHub project, and requires the code here to program the CPLD:
 
-https://github.com/philpem/acorn_postbox
+https://github.com/hoglet67/acorn_postbox
